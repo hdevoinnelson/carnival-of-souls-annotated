@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Carnival of Souls Annotated" ] },
+    "summary": { "en": [ "An interpretive analysis of Herk Harvey's 1962 film Carnival of Souls." ] },
+    "items": [
+    ]
+}
